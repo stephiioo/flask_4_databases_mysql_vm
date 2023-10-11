@@ -50,3 +50,4 @@
 
 ### step 4: type "sudo apt install mysql-server mysql-client" then type "Y" when prompted
 
+### step 5: type "sudo MySQL" which will allow the terminal to display "MySQL>"
