@@ -46,3 +46,7 @@
 
 #### your cloud shell should now say "sogbebor@mysql-vm:~$:
 
+### step 3: type "sudo apt update"
+
+### step 4: type "sudo apt install mysql-server mysql-client" then type "Y" when prompted
+
