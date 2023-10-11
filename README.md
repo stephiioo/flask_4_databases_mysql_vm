@@ -31,3 +31,18 @@
 
 
 ### step 4: rveiew and create vm
+
+## VM setup process:
+
+### step 1: open cloud shell
+
+### step 2: in the cloud shell terminal, enter:
+
+#### - pwd
+
+#### - ssh sogbebor@52.186.170.225 (which is the ip address for the azure VM)
+
+#### - type "yes", hit enter, then type in your password and hit enter
+
+#### your cloud shell should now say "sogbebor@mysql-vm:~$:
+
